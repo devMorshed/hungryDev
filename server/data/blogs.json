@@ -1,0 +1,24 @@
+{
+	"blogs": [
+		{
+			"id": 1,
+			"question": "How do I make authentic guacamole?",
+			"answer": "To make authentic guacamole, you'll need ripe avocados, lime juice, diced tomatoes, diced onions, chopped cilantro, minced garlic, salt, and optional jalapeño peppers. Start by mashing the avocados, then add the remaining ingredients and mix well. Adjust the seasoning to taste and enjoy with tortilla chips or as a topping for tacos, burritos, or quesadillas."
+		},
+		{
+			"id": 2,
+			"question": "Popular ingredients in Mexican cuisine",
+			"answer": "Popular ingredients in Mexican cuisine include corn tortillas, beans (such as black beans or pinto beans), rice, tomatoes, onions, garlic, cilantro, chilies (such as jalapeños or poblanos), avocados, limes, Mexican cheese (like queso fresco or cotija), and various spices like cumin, chili powder, and oregano."
+		},
+		{
+			"id": 3,
+			"question": "Authentic Mexican salsa?",
+			"answer": "Authentic Mexican salsa can be made using fresh ingredients like tomatoes, onions, jalapeños or serrano peppers, cilantro, lime juice, garlic, and salt. Roughly chop the tomatoes, onions, and peppers, then blend them together with the remaining ingredients. Adjust the spice level and seasoning to your preference. Allow the flavors to meld for a while before serving."
+		},
+		{
+			"id": 4,
+			"question": "What is a traditional Mexican dessert recipe?",
+			"answer": " One traditional Mexican dessert is 'Tres Leches Cake,' a sponge cake soaked in a mixture of three milks (condensed milk, evaporated milk, and heavy cream) and topped with whipped cream. It's often served cold and garnished with fresh fruit or a sprinkle of cinnamon. It's a rich and delicious treat enjoyed on special occasions or as a sweet indulgence."
+		}
+	]
+}
